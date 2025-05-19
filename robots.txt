@@ -1,0 +1,14 @@
+# robots.txt for Wasatch Growth Marketing
+User-agent: *
+Allow: /
+
+# Allow all bots to access CSS, JS, and images
+Allow: /css/
+Allow: /js/
+Allow: /assets/
+
+# Sitemap location (add when available)
+# Sitemap: https://wasatchgrowthmarketing.com/sitemap.xml
+
+# Crawl delay for all bots
+Crawl-delay: 10
