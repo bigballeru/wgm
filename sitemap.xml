@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://wasatchgrowthmarketing.com/</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- Since this is a single-page website, we can add section anchors as separate URLs -->
+  <url>
+    <loc>https://wasatchgrowthmarketing.com/#services</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wasatchgrowthmarketing.com/#host-program</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://wasatchgrowthmarketing.com/#locations</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wasatchgrowthmarketing.com/#faq</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wasatchgrowthmarketing.com/#contact</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

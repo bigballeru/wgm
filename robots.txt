@@ -7,8 +7,8 @@ Allow: /css/
 Allow: /js/
 Allow: /assets/
 
-# Sitemap location (add when available)
-# Sitemap: https://wasatchgrowthmarketing.com/sitemap.xml
+# Sitemap location
+Sitemap: https://wasatchgrowthmarketing.com/sitemap.xml
 
 # Crawl delay for all bots
 Crawl-delay: 10
